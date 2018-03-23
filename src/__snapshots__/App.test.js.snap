@@ -1,0 +1,87 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render info form 1`] = `
+<div
+  style={
+    Object {
+      "display": "flex",
+      "flex": 1,
+      "flexDirection": "column",
+      "marginLeft": "29px",
+    }
+  }
+>
+  <h3>
+    INVOICE INFO
+  </h3>
+  <div
+    style={
+      Object {
+        "color": "#ABABAB",
+        "fontSize": 15,
+        "marginTop": "29px",
+        "textAlign": "left",
+      }
+    }
+  >
+    Issue Date:
+  </div>
+  <div
+    style={
+      Object {
+        "color": "#ABABAB",
+        "fontSize": 17,
+        "textAlign": "left",
+      }
+    }
+  >
+    
+  </div>
+  <div
+    style={
+      Object {
+        "color": "#ABABAB",
+        "fontSize": 15,
+        "marginTop": "29px",
+        "textAlign": "left",
+      }
+    }
+  >
+    Repayment Date:
+  </div>
+  <div
+    style={
+      Object {
+        "color": "#ABABAB",
+        "fontSize": 17,
+        "textAlign": "left",
+      }
+    }
+  >
+    
+  </div>
+  <div
+    style={
+      Object {
+        "color": "#ABABAB",
+        "fontSize": 15,
+        "marginTop": "29px",
+        "textAlign": "left",
+      }
+    }
+  >
+    Amount:
+  </div>
+  <div
+    style={
+      Object {
+        "color": "#ABABAB",
+        "fontSize": 17,
+        "textAlign": "left",
+      }
+    }
+  >
+    23
+  </div>
+</div>
+`;

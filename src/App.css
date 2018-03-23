@@ -1,0 +1,58 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: blue;
+  height: 50px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  align-self: center;
+}
+
+.deal-form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  align-self: center;
+  width: 500px; 
+}
+
+.steps-header {
+  margin: 29px 0;
+}
+
+.steps-header span {
+  width: 150px;
+  height: 50px;
+  padding: 7px;
+  margin: 7px;
+  background-color: white;
+  color: black;
+  border: thin solid blue;
+}
+
+.steps-header span.active {
+  background-color: blue;
+  color: white;
+}
+
+.error-msg {
+  color: red;
+  font-size: 12px;
+  text-align: left;
+}
