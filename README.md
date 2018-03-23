@@ -12,4 +12,6 @@ yarn install
 // start the dev server
 yarn start
 // you can also make a production build and run the stuff inside the build folder
+// run the tests 
+yarn test
 ```
